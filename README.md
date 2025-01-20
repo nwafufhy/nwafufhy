@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nwafufhy
-- 👀 I’m interested in 遗传育种
-- 🌱 I’m currently learning GWAS
-- 💞️ I’m looking to collaborate on 生物信息的学习
+- 👀 I’m interested in 智慧农业
+- 🌱 I’m currently learning 机器学习
+- 💞️ I’m looking to collaborate on 机器学习
 - 📫 How to reach me 2313326696@qq.com
 
 <!---
